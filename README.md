@@ -1,7 +1,7 @@
 # figures-figcaptions
 Code examples from my “🦄 Creative ways to style figures and figcaptions” talk
 
-Slides from the talk are [available as a PDF](https://dl.dropboxusercontent.com/u/28267569/Presentations/Creative%20ways%20to%20style%20figures%20and%20figcaptions.pdf).
+Slides from the talk are [available as a PDF](https://www.dropbox.com/s/glrma1hjgpnaa3a/Creative%20ways%20to%20style%20figures%20and%20figcaptions.pdf?dl=0).
 
 These are code examples of screenshots/visuals I included in a talk I gave at the inaugural <a href="http://localhost.events/">Localhost</a> meetup in Perth, Australia, on 1st February 2017. The talk was focussed on the HTML5 `figure` and `figcaption` elements and demonstrated interesting ways to style them, drawing inspiration from print and media. I did not show the code for each example in the talk because it didn’t fit in with the goal I wanted, which was to visually show the audience what is possible.
 
